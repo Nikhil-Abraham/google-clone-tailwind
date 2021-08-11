@@ -7,6 +7,8 @@ import Footer from "../components/Footer";
 // import Image from "next/image";
 
 export default function Home() {
+  const search = () => {};
+
   return (
     <div className="flex flex-col items-center justify-center h-screen">
       <Head>
